@@ -38,7 +38,7 @@
 		}
 		
 		lowland.bom.Events.dispatch(e.target, "hook_mousemove", false, filterMouseEvent(e));
-		lowland.bom.Events.preventDefault(e);
+		//lowland.bom.Events.preventDefault(e);
 	};
 	
 	var wheelSynthesizer = function(e) {
