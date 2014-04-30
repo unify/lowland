@@ -13,7 +13,7 @@
 	},
 	
 	"requires" : [{
-		"source":"https://github.com/sebastian-software/core.git",
+		"source":"https://github.com/unify/core.git",
 		"version":"master"
 	}]
 }
